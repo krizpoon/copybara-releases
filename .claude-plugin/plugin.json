@@ -1,0 +1,14 @@
+{
+  "name": "copybara",
+  "version": "1.0.0",
+  "description": "Post and read clips with the Copybara CLI — a cross-device clipboard synced through your own iCloud — and set up hooks that run a command when a clip arrives.",
+  "author": {
+    "name": "Kriz Poon",
+    "url": "https://github.com/krizpoon"
+  },
+  "homepage": "https://github.com/krizpoon/copybara-releases",
+  "repository": "https://github.com/krizpoon/copybara-releases",
+  "license": "MIT",
+  "keywords": ["clipboard", "icloud", "sync", "cli", "hooks", "automation"],
+  "skills": "./skills"
+}
